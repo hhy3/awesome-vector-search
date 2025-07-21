@@ -6,11 +6,17 @@ This repo collects papers, documents, and codes about vector search for anyone w
 
 ### 2025
 
+- [[OSDI](https://www.usenix.org/conference/osdi25/presentation/guo)] Achieving Low-Latency Graph-Based Vector Search via Aligning Best-First Search Algorithm with SSD [**`Graph`**] [**`Hardware`**]
+
+- [[VLDB](https://arxiv.org/abs/2507.11907)] SIEVE: Effective Filtered Vector Search with Collection of Indexes [**`Filter`**] [[code](https://github.com/BillyZhaohengLi/SIEVE-vldb25)] ![GitHub Repo stars](https://img.shields.io/github/stars/BillyZhaohengLi/SIEVE-vldb25)
+
 - [[VLDB](https://arxiv.org/abs/2507.10070)] Breaking the Storage-Compute Bottleneck in Billion-Scale ANNS: A GPU-Driven Asynchronous I/O Framework [**`Hardware`**] [[code](https://github.com/Tinkerver/ann_search)] ![GitHub Repo stars](https://img.shields.io/github/stars/Tinkerver/ann_search)
 
 - [[arXiv](https://arxiv.org/abs/2507.06653)] Towards Efficient and Scalable Distributed Vector Search with RDMA [**`Hardware`**]
 
 - [[arXiv](https://arxiv.org/abs/2507.04256)] OneDB: A Distributed Multi-Metric Data Similarity Search System [**`Multimodel`**]
+
+- [[arXiv](https://arxiv.org/abs/2507.00379)] Towards Robustness: A Critique of Current Vector Database Assessments [**`Experiment`**]
 
 - [[ISCA](https://arxiv.org/abs/2506.16444)] REIS: A High-Performance and Energy-Efficient Retrieval System with In-Storage Processing [**`Hardware`**]
 
@@ -28,7 +34,7 @@ This repo collects papers, documents, and codes about vector search for anyone w
 
 - [[arXiv](https://arxiv.org/abs/2506.08276)] LEANN: A Low-Storage Vector Index [**`Hardware`**]
 
-- [[ODSI](https://arxiv.org/abs/2506.03437)] Quake: Adaptive Indexing for Vector Search [**`Streaming`**] [[code](https://github.com/marius-team/quake)] ![GitHub Repo stars](https://img.shields.io/github/stars/marius-team/quake)
+- [[OSDI](https://arxiv.org/abs/2506.03437)] Quake: Adaptive Indexing for Vector Search [**`Streaming`**] [[code](https://github.com/marius-team/quake)] ![GitHub Repo stars](https://img.shields.io/github/stars/marius-team/quake)
 
 - [[SIGMOD](https://arxiv.org/abs/2506.00812)] VecFlow: A High-Performance Vector Data Management System for Filtered-Search on GPUs [**`Filter`**] [**`Hardware`**] [[code](https://github.com/Supercomputing-System-AI-Lab/VecFlow)] ![GitHub Repo stars](https://img.shields.io/github/stars/Supercomputing-System-AI-Lab/VecFlow)
 
@@ -112,7 +118,7 @@ This repo collects papers, documents, and codes about vector search for anyone w
 
 - [[SIGMOD](https://arxiv.org/abs/2409.02571)] iRangeGraph: Improvising Range-dedicated Graphs for Range-filtering Nearest Neighbor Search [**`Filter`**] [[code](https://github.com/YuexuanXu7/iRangeGraph)] ![GitHub Repo stars](https://img.shields.io/github/stars/YuexuanXu7/iRangeGraph)
 
-- [[VLDB](https://www.arxiv.org/abs/2408.13899)] Steiner -Hardness: A Query Hardness Measure for Graph-Based ANN Indexes [**`Graph`**]
+- [[VLDB](https://www.arxiv.org/abs/2408.13899)] Steiner-Hardness: A Query Hardness Measure for Graph-Based ANN Indexes [**`Graph`**]
 
 - [[VLDB](https://arxiv.org/abs/2408.08933)] RoarGraph: A Projected Bipartite Graph for Efficient Cross-Modal Approximate Nearest Neighbor Search [**`Graph`**] [[code](https://github.com/matchyc/RoarGraph)] ![GitHub Repo stars](https://img.shields.io/github/stars/matchyc/RoarGraph)
 
