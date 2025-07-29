@@ -4,7 +4,12 @@ This repo collects papers, documents, and codes about vector search for anyone w
 
 ## Papers
 
+last updated: 2025-07-29
+
 ### 2025
+
+
+- [[arXiv](https://arxiv.org/abs/2507.19802)] CleANN: Efficient Full Dynamism in Graph-based Approximate Nearest Neighbor Search [**`Streaming`**]
 
 - [[OSDI](https://www.usenix.org/conference/osdi25/presentation/guo)] Achieving Low-Latency Graph-Based Vector Search via Aligning Best-First Search Algorithm with SSD [**`Graph`**] [**`Hardware`**]
 
@@ -58,6 +63,8 @@ This repo collects papers, documents, and codes about vector search for anyone w
 
 - [[SIGIR](https://arxiv.org/abs/2504.14861)] Stitching Inner Product and Euclidean Metrics for Topology-aware Maximum Inner Product Search [**`MIPS`**] [[code](https://github.com/ZJU-DAILY/MAG)] ![GitHub Repo stars](https://img.shields.io/github/stars/ZJU-DAILY/MAG)
 
+- [[SIGMOD](https://dl.acm.org/doi/10.1145/3725349)] RWalks: Random Walks as Attribute Diffusers for Filtered Vector Search [**`Filter`**] [**`Graph`**]
+
 - [[SIGMOD](https://arxiv.org/abs/2504.10326)] AlayaDB: The Data Foundation for Efficient and Effective Long-context LLM Inference [**`KVCache`**]
 
 - [[SIGMOD](https://arxiv.org/abs/2504.05573)] MicroNN: An On-device Disk-resident Updatable Vector Database [**`Hardware`**]
@@ -93,6 +100,8 @@ This repo collects papers, documents, and codes about vector search for anyone w
 - [[arXiv](https://arxiv.org/abs/2501.10479)] Lossless Compression of Vector IDs for Approximate Nearest Neighbor Search [**`Compression`**] [[code](https://github.com/facebookresearch/vector_db_id_compression)] ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/vector_db_id_compression)
 
 - [[ICLR](https://arxiv.org/abs/2501.03078)] Qinco2: Vector Compression and Search with Improved Implicit Neural Codebooks [**`Compression`**] [[code](https://github.com/facebookresearch/Qinco)] ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/Qinco)
+
+- [[ICDE](https://www.computer.org/csdl/proceedings-article/icde/2025/360300a336/26FZz8fdJXW)] Boosting Accuracy and Efficiency for Vector Retrieval with Local Scaling Graph [**`Graph`**]
 
 ### 2024
 
