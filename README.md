@@ -4,10 +4,13 @@ This repo collects papers, documents, and codes about vector search for anyone w
 
 ## Papers
 
-last updated: 2025-07-29
+last updated: 2025-08-08
 
 ### 2025
 
+- [[arXiv](https://arxiv.org/abs/2508.02091)] CRINN: Contrastive Reinforcement Learning for Approximate Nearest Neighbor Search [**`Learning`**] [[code](https://github.com/deepreinforce-ai/CRINN)] ![GitHub Repo stars](https://img.shields.io/github/stars/deepreinforce-ai/CRINN)
+
+- [[arXiv](https://arxiv.org/abs/2508.01405)] Balancing the Blend: An Experimental Analysis of Trade-offs in Hybrid Search [**`Hybrid`**] [[code](https://github.com/whenever5225/infinity)] ![GitHub Repo stars](https://img.shields.io/github/stars/whenever5225/infinity)
 
 - [[arXiv](https://arxiv.org/abs/2507.19802)] CleANN: Efficient Full Dynamism in Graph-based Approximate Nearest Neighbor Search [**`Streaming`**]
 
@@ -135,6 +138,8 @@ last updated: 2025-07-29
 
 - [[CIKM](https://arxiv.org/abs/2408.02937)] A Real-Time Adaptive Multi-Stream GPU System for Online Approximate Nearest Neighborhood Search [**`Hardware`**] [**`Streaming`**]
 
+- [[SIGIR](https://dl.acm.org/doi/abs/10.1145/3726302.3730268)] Efficient Approximate Nearest Neighbor Search on a Raspberry Pi [**`Hardware`**]
+
 - [[ATC](https://www.usenix.org/conference/atc24/presentation/tian)] Scalable Billion-point Approximate Nearest Neighbor Search Using SmartSSDs [**`Hardware`**]
 
 - [[arXiv](https://arxiv.org/abs/2406.19651)] CANDY: A Benchmark for Continuous Approximate Nearest Neighbor Search with Dynamic Data Ingestion [**`Benchmark`**] [**`Streaming`**] [[code](https://github.com/intellistream/candy)] ![GitHub Repo stars](https://img.shields.io/github/stars/intellistream/candy)
@@ -149,6 +154,8 @@ last updated: 2025-07-29
 - [[ICDE](https://arxiv.org/abs/2404.16322)] Effective and General Distance Computation for Approximate Nearest Neighbor Search [**`DCO`**] [[code](https://github.com/mingyu-hkustgz/Res-Infer)] ![GitHub Repo stars](https://img.shields.io/github/stars/mingyu-hkustgz/Res-Infer)
 
 - [[arXiv](https://arxiv.org/abs/2404.06004)] AiSAQ: All-in-Storage ANNS with Product Quantization for DRAM-free Information Retrieval [**`Hardware`**] [[code](https://github.com/kioxia-jp/aisaq-diskann)] ![GitHub Repo stars](https://img.shields.io/github/stars/kioxia-jp/aisaq-diskann)
+
+- [[SIGIR](https://arxiv.org/abs/2404.18812)] Efficient Inverted Indexes for Approximate Retrieval over Learned Sparse Representations [**`Sparse`**] [[code](https://github.com/TusKANNy/seismic)] ![GitHub Repo stars](https://img.shields.io/github/stars/TusKANNy/seismic)
 
 - [[SIGMOD](https://arxiv.org/abs/2404.00966)] GTS: GPU-based Tree Index for Fast Similarity Search [**`Hardware`**] [[code](https://github.com/ZJU-DAILY/GTS)] ![GitHub Repo stars](https://img.shields.io/github/stars/ZJU-DAILY/GTS)
 
