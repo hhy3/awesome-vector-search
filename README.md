@@ -4,13 +4,19 @@ This repo collects papers, documents, and codes about vector search for anyone w
 
 ## Papers
 
-last updated: 2025-08-08
+last updated: 2025-08-12
 
 ### 2025
+
+- [[arXiv](https://arxiv.org/abs/2508.07218)] Accelerating High-Dimensional Nearest Neighbor Search with Dynamic Query Preference [**`Tuning`**]
+
+- [[SIGIR Tutorial](https://lsr-tutorial.github.io/#hero)] Neural Lexical Search with Learned Sparse Retrieval [**`Sparse`**]
 
 - [[arXiv](https://arxiv.org/abs/2508.02091)] CRINN: Contrastive Reinforcement Learning for Approximate Nearest Neighbor Search [**`Learning`**] [[code](https://github.com/deepreinforce-ai/CRINN)] ![GitHub Repo stars](https://img.shields.io/github/stars/deepreinforce-ai/CRINN)
 
 - [[arXiv](https://arxiv.org/abs/2508.01405)] Balancing the Blend: An Experimental Analysis of Trade-offs in Hybrid Search [**`Hybrid`**] [[code](https://github.com/whenever5225/infinity)] ![GitHub Repo stars](https://img.shields.io/github/stars/whenever5225/infinity)
+
+- [[arXiv](https://arxiv.org/abs/2507.21989)] Benchmarking Filtered Approximate Nearest Neighbor Search Algorithms on Transformer-based Embedding Vectors [**`Filter`**] [**`Survey`**] [[code](https://github.com/spcl/fanns-benchmark)] ![GitHub Repo stars](https://img.shields.io/github/stars/spcl/fanns-benchmark)
 
 - [[arXiv](https://arxiv.org/abs/2507.19802)] CleANN: Efficient Full Dynamism in Graph-based Approximate Nearest Neighbor Search [**`Streaming`**]
 
@@ -63,6 +69,8 @@ last updated: 2025-08-08
 - [[arXiv](https://arxiv.org/abs/2504.20018)] MINT: Multi-Vector Search Index Tuning [**`Tuning`**]
 
 - [[arXiv](https://arxiv.org/abs/2504.19874)] TurboQuant: Online Vector Quantization with Near-optimal Distortion Rate [**`Compression`**]
+
+- [[SIGIR](https://arxiv.org/abs/2504.17045)] Dynamic Superblock Pruning for Fast Learned Sparse Retrieval [**`Sparse`**] [[code](https://github.com/thefxperson/hierarchical_pruning)] ![GitHub Repo stars](https://img.shields.io/github/stars/thefxperson/hierarchical_pruning)
 
 - [[SIGIR](https://arxiv.org/abs/2504.14861)] Stitching Inner Product and Euclidean Metrics for Topology-aware Maximum Inner Product Search [**`MIPS`**] [[code](https://github.com/ZJU-DAILY/MAG)] ![GitHub Repo stars](https://img.shields.io/github/stars/ZJU-DAILY/MAG)
 
@@ -135,6 +143,8 @@ last updated: 2025-08-08
 - [[VLDB](https://arxiv.org/abs/2408.08933)] RoarGraph: A Projected Bipartite Graph for Efficient Cross-Modal Approximate Nearest Neighbor Search [**`Graph`**] [[code](https://github.com/matchyc/RoarGraph)] ![GitHub Repo stars](https://img.shields.io/github/stars/matchyc/RoarGraph)
 
 - [[VLDB](https://cs.purdue.edu/homes/csjgwang/pubs/VLDB24_SingleStoreVec.pdf)] SingleStore-V: An Integrated Vector Database System in SingleStore [**`Database`**]
+
+- [[CIKM](https://arxiv.org/abs/2408.04443)] Pairing Clustered Inverted Indexes with kNN Graphs for Fast Approximate Retrieval over Learned Sparse Representations [**`Sparse`**]
 
 - [[CIKM](https://arxiv.org/abs/2408.02937)] A Real-Time Adaptive Multi-Stream GPU System for Online Approximate Nearest Neighborhood Search [**`Hardware`**] [**`Streaming`**]
 
