@@ -4,9 +4,23 @@ This repo collects papers, documents, and codes about vector search for anyone w
 
 ## Papers
 
-last updated: 2025-08-12
+last updated: 2025-09-18
 
 ### 2025
+
+- [[arXiv](https://arxiv.org/abs/2509.12086)] SAQ: Pushing the Limits of Vector Quantization through Code Adjustment and Dimension Segmentation [**`Compression`**]
+
+- [[arXiv](https://arxiv.org/abs/2509.11697)] Towards the Distributed Large-scale k-NN Graph Construction by Graph Merge [**`Graph`**] [**`Distributed`**]
+
+- [[arXiv](https://arxiv.org/abs/2509.08395)] SINDI: an Efficient Index for Approximate Maximum Inner Product Search on Sparse Vectors [**`Sparse`**]
+
+- [[arXiv](https://arxiv.org/abs/2509.06046)] DISTRIBUTEDANN: Efficient Scaling of a Single DISKANN Graph Across Thousands of Computers [**`Graph`**] [**`Distributed`**]
+
+- [[arXiv](https://arxiv.org/abs/2509.03226)] BAMG: A Block-Aware Monotonic Graph Index for Disk-Based Approximate Nearest Neighbor Search [**`Graph`**] [**`Hardware`**]
+
+- [[VLDB](https://dl.acm.org/doi/abs/10.14778/3749646.3749697)] Select Edges Wisely: Monotonic Path Aware Graph Layout Optimization for Disk-Based ANN Search [[code](https://github.com/CodenameYZY/MARGO)] ![GitHub Repo stars](https://img.shields.io/github/stars/CodenameYZY/MARGO)
+
+- [[arXiv](https://arxiv.org/abs/2508.17828)] TRIM: Accelerating High-Dimensional Vector Similarity Search with Enhanced Triangle-Inequality-Based Pruning [**`DCO`**]
 
 - [[arXiv](https://arxiv.org/abs/2508.07218)] Accelerating High-Dimensional Nearest Neighbor Search with Dynamic Query Preference [**`Tuning`**]
 
@@ -44,8 +58,6 @@ last updated: 2025-08-12
 
 - [[arXiv](https://arxiv.org/abs/2506.13144)] EnhanceGraph: A Continuously Enhanced Graph-based Index for High-dimensional Approximate Nearest Neighbor Search [**`Graph`**] [[code](https://github.com/alipay/vsag)] ![GitHub Repo stars](https://img.shields.io/github/stars/alipay/vsag)
 
-- [[VecDB](https://openreview.net/forum?id=6AEsfCLRm3)] DistributedANN: Efficient Scaling of a Single DiskANN Graph Across Thousands of Computers [**`Graph`**] [**`Distributed`**]
-
 - [[arXiv](https://arxiv.org/abs/2506.08276)] LEANN: A Low-Storage Vector Index [**`Hardware`**]
 
 - [[OSDI](https://arxiv.org/abs/2506.03437)] Quake: Adaptive Indexing for Vector Search [**`Streaming`**] [[code](https://github.com/marius-team/quake)] ![GitHub Repo stars](https://img.shields.io/github/stars/marius-team/quake)
@@ -81,6 +93,8 @@ last updated: 2025-08-12
 - [[SIGMOD](https://arxiv.org/abs/2504.05573)] MicroNN: An On-device Disk-resident Updatable Vector Database [**`Hardware`**]
 
 - [[arXiv](https://arxiv.org/abs/2504.04018)] ESG: Elastic Graphs for Range-Filtering Approximate 𝑘-Nearest Neighbor Search [**`Filter`**]
+
+- [[arXiv](https://arxiv.org/abs/2503.23409)] LIRA: A Learning-based Query-aware Partition Framework for Large-scale ANN Search [**`Tuning`**]
 
 - [[arXiv](https://arxiv.org/abs/2503.17911)] VSAG: An Optimized Search Framework for Graph-based Approximate Nearest Neighbor Search [**`Framework`**] [[code](https://github.com/antgroup/vsag)] ![GitHub Repo stars](https://img.shields.io/github/stars/antgroup/vsag)
 
@@ -129,6 +143,8 @@ last updated: 2025-08-12
 - [[arXiv](https://arxiv.org/abs/2410.20381)] Efficient and Effective Retrieval of Dense-Sparse Hybrid Vectors using Graph-based Approximate Nearest Neighbor Search [**`Hybrid`**] [**`Graph`**]
 
 - [[NeurIPS](https://arxiv.org/abs/2410.18926)] LoRANN: Low-Rank Matrix Factorization for Approximate Nearest Neighbor Search [**`Compression`**] [[code](https://github.com/ejaasaari/lorann)] ![GitHub Repo stars](https://img.shields.io/github/stars/ejaasaari/lorann)
+
+- [[VLDB](https://arxiv.org/abs/2410.01231)] Revisiting the Index Construction of Proximity Graph-Based Approximate Nearest Neighbor Search [**`Graph`**] [[code](https://github.com/xdyangsh/FastKCNA)] ![GitHub Repo stars](https://img.shields.io/github/stars/xdyangsh/FastKCNA)
 
 - [[FAST](https://arxiv.org/abs/2409.16576)] FusionANNS: An Efficient CPU/GPU Cooperative Processing Architecture for Billion-scale Approximate Nearest Neighbor Search
 
