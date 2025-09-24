@@ -4,9 +4,11 @@ This repo collects papers, documents, and codes about vector search for anyone w
 
 ## Papers
 
-last updated: 2025-09-18
+last updated: 2025-09-24
 
 ### 2025
+
+- [[arXiv](https://arxiv.org/abs/2509.15531)] Graph-Based Approximate Nearest Neighbor Search Revisited: Theoretical Analysis and Optimization [**`Graph`**] [**`Theory`**]
 
 - [[arXiv](https://arxiv.org/abs/2509.12086)] SAQ: Pushing the Limits of Vector Quantization through Code Adjustment and Dimension Segmentation [**`Compression`**]
 
@@ -14,11 +16,17 @@ last updated: 2025-09-18
 
 - [[arXiv](https://arxiv.org/abs/2509.08395)] SINDI: an Efficient Index for Approximate Maximum Inner Product Search on Sparse Vectors [**`Sparse`**]
 
+- [[arXiv](https://arxiv.org/abs/2509.07789)] Filtered Approximate Nearest Neighbor Search: A Unified Benchmark and Systematic Experimental Study [Experiment, Analysis & Benchmark] [**`Filter`**] [[code](https://github.com/sjyouuuuug/filterbenchmark)] ![Github Repo stars](https://img.shields.io/github/stars/sjyouuuuug/filterbenchmark)
+
 - [[arXiv](https://arxiv.org/abs/2509.06046)] DISTRIBUTEDANN: Efficient Scaling of a Single DISKANN Graph Across Thousands of Computers [**`Graph`**] [**`Distributed`**]
 
 - [[arXiv](https://arxiv.org/abs/2509.03226)] BAMG: A Block-Aware Monotonic Graph Index for Disk-Based Approximate Nearest Neighbor Search [**`Graph`**] [**`Hardware`**]
 
 - [[VLDB](https://dl.acm.org/doi/abs/10.14778/3749646.3749697)] Select Edges Wisely: Monotonic Path Aware Graph Layout Optimization for Disk-Based ANN Search [[code](https://github.com/CodenameYZY/MARGO)] ![GitHub Repo stars](https://img.shields.io/github/stars/CodenameYZY/MARGO)
+
+- [[SIGMOD](https://arxiv.org/abs/2508.18617)] WoW: A Window-to-Window Incremental Index for Range-Filtering Approximate Nearest Neighbor Search [**`Filter`**] [[code](https://github.com/nju-websoft/WoW)] ![GitHub Repo stars](https://img.shields.io/github/stars/nju-websoft/WoW)
+
+- [[arXiv](https://arxiv.org/abs/2508.17886)] PGTuner: An Efficient Framework for Automatic and Transferable Configuration Tuning of Proximity Graphs ['**`Tuning`**] [**`Graph`**]
 
 - [[arXiv](https://arxiv.org/abs/2508.17828)] TRIM: Accelerating High-Dimensional Vector Similarity Search with Enhanced Triangle-Inequality-Based Pruning [**`DCO`**]
 
@@ -49,6 +57,8 @@ last updated: 2025-09-18
 - [[ISCA](https://arxiv.org/abs/2506.16444)] REIS: A High-Performance and Energy-Efficient Retrieval System with In-Storage Processing [**`Hardware`**]
 
 - [[KDD](https://arxiv.org/abs/2506.15986)] Empowering Graph-based Approximate Nearest Neighbor Search with Adaptive Awareness Capabilities [**`Graph`**]
+
+- [[SIGMOD](https://arxiv.org/abs/2506.14707)] HARMONY: A Scalable Distributed Vector Database for High-Throughput Approximate Nearest Neighbor Search [**`Distributed`**]
 
 - [[SIGMOD](https://dl.acm.org/doi/10.1145/3725401)] Efficient Dynamic Indexing for Range Filtered Approximate Nearest Neighbor Search [**`Filter`**] [[code](https://github.com/CUHK-DBGroup/RangePQ)] ![GitHub Repo stars](https://img.shields.io/github/stars/CUHK-DBGroup/RangePQ)
 
@@ -218,3 +228,5 @@ last updated: 2025-09-18
 - [[SOSP](https://arxiv.org/abs/2410.14452)] SPFresh: Incremental In-Place Update for Billion-Scale Vector Search [**`Streaming`**]
 
 - [[OSDI](https://www.usenix.org/conference/osdi23/presentation/zhang-qianxi)] VBASE: Unifying Online Vector Similarity Search and Relational Queries via Relaxed Monotonicity [**`Filter`**] [[code](https://github.com/microsoft/MSVBASE)] ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/MSVBASE)
+
+- [[arXiv](https://arxiv.org/abs/2308.15014)] CAPS: A Practical Partition Index for Filtered Similarity Search [**`Filter`**] [[code](https://github.com/gaurav16gupta/constrainedANN)] ![Github Repo stars](https://img.shields.io/github/stars/gaurav16gupta/constrainedANN)
