@@ -4,13 +4,39 @@ This repo collects papers, documents, and codes about vector search for anyone w
 
 ## Papers
 
-last updated: 2025-09-24
+last updated: 2026-02-06
+
+### 2026
+
+- [[arXiv](https://arxiv.org/abs/2601.21853)] LEMUR: Learned Multi-Vector Retrieval [**`Multi Vector`**]
+
+- [[SIGMOD](https://arxiv.org/abs/2601.07183)] RAIRS: Optimizing Redundant Assignment and List Layout for IVF-Based ANN Search [**`IVF`**]
+
+- [[arXiv](https://arxiv.org/abs/2601.07048)] GPU-Accelerated ANNS: Quantized for Speed, Built for Change [**`Hardware`**]
 
 ### 2025
 
+- [[SIGMOD](https://dl.acm.org/doi/10.1145/3769769)] Building Stateless Serverless Vector DBs via Block-based Data Partitioning [**`Database`**]
+
+- [[SIGMOD](https://dl.acm.org/doi/10.1145/3769799)] High-Throughput, Cost-Effective Billion-Scale Vector Search with a Single GPU [**`Hardware`**] [[code](https://github.com/thustorage/GustANN)] ![Github Repo stars](https://img.shields.io/github/stars/thustorage/GustANN)
+
+- [[SIGMOD](https://dl.acm.org/doi/10.1145/3769803)] Integrating Vector Databases across Embedding Models [**`Database`**]
+
+- [[SIGMOD](https://dl.acm.org/doi/abs/10.1145/3769780)] DiskJoin: Large-scale Vector Similarity Join with SSD [**`Hardware`**] [**`Database`**]
+
+- [[SIGMOD](https://dl.acm.org/doi/abs/10.1145/3769765)] Beyond Vector Search: Querying With and Without Predicates [**`Filter`**]
+
+- [[arXiv](https://arxiv.org/abs/2512.17264)] Scalable Distributed Vector Search via Accuracy Preserving Index Construction [**`Distributed`**]
+
+- [[arXiv](https://arxiv.org/abs/2512.09331)] Passing the Baton: High Throughput Distributed Disk-Based Vector Search with BatANN [**`Hardware`**]
+
+- [[SIGMOD](https://arxiv.org/abs/2512.06636)] Distribution-Aware Exploration for Adaptive HNSW Search [**`Graph`**]
+
+- [[SIGMOD](https://dl.acm.org/doi/10.1145/3769783)] Dynamically Detect and Fix Hardness for Efficient Approximate Nearest Neighbor Search [**`Graph`**] [[code](https://github.com/yuhuifishash/NGFix)] ![Github Repo stars](https://img.shields.io/github/stars/yuhuifishash/NGFix)
+
 - [[arXiv](https://arxiv.org/abs/2509.15531)] Graph-Based Approximate Nearest Neighbor Search Revisited: Theoretical Analysis and Optimization [**`Graph`**] [**`Theory`**]
 
-- [[arXiv](https://arxiv.org/abs/2509.12086)] SAQ: Pushing the Limits of Vector Quantization through Code Adjustment and Dimension Segmentation [**`Compression`**]
+- [[SIGMOD](https://arxiv.org/abs/2509.12086)] SAQ: Pushing the Limits of Vector Quantization through Code Adjustment and Dimension Segmentation [**`Compression`**]
 
 - [[arXiv](https://arxiv.org/abs/2509.11697)] Towards the Distributed Large-scale k-NN Graph Construction by Graph Merge [**`Graph`**] [**`Distributed`**]
 
@@ -28,7 +54,7 @@ last updated: 2025-09-24
 
 - [[arXiv](https://arxiv.org/abs/2508.17886)] PGTuner: An Efficient Framework for Automatic and Transferable Configuration Tuning of Proximity Graphs ['**`Tuning`**] [**`Graph`**]
 
-- [[arXiv](https://arxiv.org/abs/2508.17828)] TRIM: Accelerating High-Dimensional Vector Similarity Search with Enhanced Triangle-Inequality-Based Pruning [**`DCO`**]
+- [[SIGMOD](https://arxiv.org/abs/2508.17828)] TRIM: Accelerating High-Dimensional Vector Similarity Search with Enhanced Triangle-Inequality-Based Pruning [**`DCO`**]
 
 - [[arXiv](https://arxiv.org/abs/2508.07218)] Accelerating High-Dimensional Nearest Neighbor Search with Dynamic Query Preference [**`Tuning`**]
 
@@ -78,7 +104,7 @@ last updated: 2025-09-24
 
 - [[arXiv](https://arxiv.org/abs/2505.16096)] Cosmos: A CXL-Based Full In-Memory System for Approximate Nearest Neighbor Search [**`Hardware`**]
 
-- [[arXiv](https://arxiv.org/abs/2505.12524)] HAKES: Scalable Vector Database for Embedding Search Service [**`Streaming`**] [[code](https://github.com/nusdbsystem/HAKES-Search)] ![GitHub Repo stars](https://img.shields.io/github/stars/nusdbsystem/HAKES-Search)
+- [[VLDB](https://arxiv.org/abs/2505.12524)] HAKES: Scalable Vector Database for Embedding Search Service [**`Streaming`**] [[code](https://github.com/nusdbsystem/HAKES-Search)] ![GitHub Repo stars](https://img.shields.io/github/stars/nusdbsystem/HAKES-Search)
 
 - [[arXiv](https://arxiv.org/abs/2505.07621)] Bang for the Buck: Vector Search on Cloud CPUs [**`Experiment`**]
 
