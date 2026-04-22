@@ -4,11 +4,29 @@ This repo collects papers, documents, and codes about vector search for anyone w
 
 ## Papers
 
-last updated: 2026-03-07
+last updated: 2026-04-22
 
 ### 2026
 
+- [[ICDE](https://arxiv.org/abs/2604.02801)] Distance Comparison Operations Are Not Silver Bullets in Vector Similarity Search [**`DCO`**] [**`Experiment`**]
+
+- [[arXiv](https://arxiv.org/abs/2603.24920)] PDET-LSH: Scalable In-Memory Indexing for High-Dimensional Approximate Nearest Neighbor Search with Quality Guarantees [**`LSH`**]
+
+- [[SIGMOD](https://arxiv.org/abs/2603.24919)] TaCo: Data-adaptive and Query-aware Subspace Collision for High-dimensional Approximate Nearest Neighbor Search [**`DCO`**]
+
+- [[SIGMOD](https://arxiv.org/abs/2603.23710)] An In-Depth Study of Filter-Agnostic Vector Search on a PostgreSQL Database System [**`Filter`**] [**`Experiment`**]
+
+- [[SIGMOD](https://arxiv.org/abs/2603.21710)] FGIM: a Fast Graph-based Indexes Merging Framework for Approximate Nearest Neighbor Search [**`Graph`**]
+
+- [[SIGMOD](https://arxiv.org/abs/2603.20336)] GEM: A Native Graph-based Index for Multi-Vector Retrieval [**`Multi Vector`**] [**`Graph`**]
+
+- [[arXiv](https://arxiv.org/abs/2603.16435)] VQKV: High-Fidelity and High-Ratio Cache Compression via Vector-Quantization [**`KVCache`**]
+
+- [[arXiv](https://arxiv.org/abs/2603.01525)] VectorMaton: Efficient Vector Search with Pattern Constraints via an Enhanced Suffix Automaton [**`Filter`**]
+
 - [[arXiv](https://arxiv.org/abs/2602.23999)] IVF-RaBitQ (GPU): GPU-Native Approximate Nearest Neighbor Search with IVF-RaBitQ [**`Hardware`**] [**`Compression`**]
+
+- [[SIGMOD](https://arxiv.org/abs/2602.23342)] AlayaLaser: Efficient Index Layout and Search Strategy for Large-scale High-dimensional Vector Similarity Search [**`Hardware`**]
 
 - [[arXiv](https://arxiv.org/abs/2602.16719)] GPU-Accelerated Algorithms for Graph Vector Search: Taxonomy, Empirical Study, and Research Directions [**`Hardware`**] [**`Survey`**]
 
@@ -18,9 +36,19 @@ last updated: 2026-03-07
 
 - [[arXiv](https://arxiv.org/abs/2601.21853)] LEMUR: Learned Multi-Vector Retrieval [**`Multi Vector`**]
 
+- [[VLDB](https://arxiv.org/abs/2601.08528)] SVFusion: A CPU-GPU Co-Processing Architecture for Large-Scale Real-Time Vector Search [**`Hardware`**]
+
 - [[SIGMOD](https://arxiv.org/abs/2601.07183)] RAIRS: Optimizing Redundant Assignment and List Layout for IVF-Based ANN Search [**`IVF`**]
 
 - [[arXiv](https://arxiv.org/abs/2601.07048)] GPU-Accelerated ANNS: Quantized for Speed, Built for Change [**`Hardware`**]
+
+- [[SIGMOD](https://arxiv.org/abs/2601.01291)] Curator: Efficient Vector Search with Low-Selectivity Filters [**`Filter`**]
+
+- [[VLDB](https://www.vldb.org/pvldb/vol19/p29-horchidan.pdf)] ConANN: Conformal Approximate Nearest Neighbor Search [**`IVF`**] [**`Tuning`**] [[code](https://github.com/soniahorchidan/conann)] ![GitHub Repo stars](https://img.shields.io/github/stars/soniahorchidan/conann)
+
+- [[VLDB](https://www.vldb.org/pvldb/vol19/p183-zheng.pdf)] An Experimental Evaluation of Hybrid Querying on Vectors [**`Filter`**] [**`Survey`**] [[code](https://github.com/zhujx001/Hybrid-ANNS-Experiment)] ![GitHub Repo stars](https://img.shields.io/github/stars/zhujx001/Hybrid-ANNS-Experiment)
+
+- [[VLDB](https://www.vldb.org/pvldb/vol19/p399-chen.pdf)] RED-ANNS: An RDMA-Enabled Distributed Framework for Graph-Based Approximate Nearest Neighbor Search [**`Graph`**] [**`Distributed`**]
 
 ### 2025
 
@@ -49,6 +77,8 @@ last updated: 2026-03-07
 - [[arXiv](https://arxiv.org/abs/2508.17886)] PGTuner: An Efficient Framework for Automatic and Transferable Configuration Tuning of Proximity Graphs [**`Tuning`**] [**`Graph`**]
 
 - [[SIGMOD](https://arxiv.org/abs/2508.17828)] TRIM: Accelerating High-Dimensional Vector Similarity Search with Enhanced Triangle-Inequality-Based Pruning [**`DCO`**]
+
+- [[SIGMOD](https://arxiv.org/abs/2508.08744)] Scalable Graph Indexing using GPUs for Approximate Nearest Neighbor Search [**`Graph`**] [**`Hardware`**]
 
 - [[arXiv](https://arxiv.org/abs/2508.07218)] Accelerating High-Dimensional Nearest Neighbor Search with Dynamic Query Preference [**`Tuning`**]
 
@@ -94,6 +124,8 @@ last updated: 2026-03-07
 
 - [[arXiv](https://arxiv.org/abs/2505.06501)] Survey of Filtered Approximate Nearest Neighbor Search over the Vector-Scalar Hybrid Data [**`Survey`**] [**`Filter`**] [[code](https://github.com/lyj-fdu/FANNS)] ![GitHub Repo stars](https://img.shields.io/github/stars/lyj-fdu/FANNS)
 
+- [[VLDB](https://arxiv.org/abs/2505.03212)] Elastic Index Selection for Label-Hybrid AKNN Search [**`Filter`**]
+
 - [[arXiv](https://arxiv.org/abs/2505.02922)] RetroInfer: A Vector-Storage Approach for Scalable Long-Context LLM Inference [**`KVCache`**] [[code](https://github.com/microsoft/RetrievalAttention)] ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/RetrievalAttention)
 
 - [[arXiv](https://arxiv.org/abs/2504.20461)] Efficient Graph-Based Approximate Nearest Neighbor Search Achieving: Low Latency Without Throughput Loss [**`Graph`**] [**`Serving`**]
@@ -121,6 +153,8 @@ last updated: 2026-03-07
 - [[VLDB](https://arxiv.org/abs/2503.06882)] Maximum Inner Product is Query-Scaled Nearest Neighbor [**`MIPS`**] [[code](https://github.com/ZJU-DAILY/PSP)] ![GitHub Repo stars](https://img.shields.io/github/stars/ZJU-DAILY/PSP)
 
 - [[SIGMOD](https://arxiv.org/abs/2503.04422)] PDX: A Data Layout for Vector Similarity Search [**`Hardware`**] [[code](https://github.com/cwida/PDX)] ![GitHub Repo stars](https://img.shields.io/github/stars/cwida/PDX)
+
+- [[VLDB](https://arxiv.org/abs/2503.00402)] A Topology-Aware Localized Update Strategy for Graph-Based ANN Index [**`Graph`**] [**`Streaming`**]
 
 - [[WWW'25](https://arxiv.org/abs/2502.20695)] Scalable Overload-Aware Graph-Based Index Construction for 10-Billion-Scale Vector Similarity Search [**`Graph`**]
 
@@ -193,6 +227,8 @@ last updated: 2026-03-07
 - [[SIGMOD](https://arxiv.org/abs/2411.14754)] Subspace Collision: An Efficient and Accurate Framework for High-dimensional Approximate Nearest Neighbor Search [**`DCO`**]
 
 - [[SIGMOD](https://arxiv.org/abs/2411.12229)] SymphonyQG: Towards Symphonious Integration of Quantization and Graph for Approximate Nearest Neighbor Search [**`Graph`**] [[code](https://github.com/gouyt13/SymphonyQG)] ![GitHub Repo stars](https://img.shields.io/github/stars/gouyt13/SymphonyQG)
+
+- [[VLDB](https://arxiv.org/abs/2411.06158)] Quantization Meets Projection: A Happy Marriage for Approximate k-Nearest Neighbor Search [**`Compression`**] [[code](https://github.com/mingyu-hkustgz/RESQ)] ![GitHub Repo stars](https://img.shields.io/github/stars/mingyu-hkustgz/RESQ)
 
 - [[arXiv](https://arxiv.org/abs/2410.21465)] ShadowKV: KV Cache in Shadows for High-Throughput Long-Context LLM Inference [**`KVCache`**] [[code](https://github.com/bytedance/ShadowKV)] ![GitHub Repo stars](https://img.shields.io/github/stars/bytedance/ShadowKV)
 
